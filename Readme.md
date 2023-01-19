@@ -1,0 +1,1 @@
+Programa que tem o objetivo de enviar mensagens com base no IP dos usuarios registrados.
